@@ -1,4 +1,4 @@
-# Sales Performance Dashboard
+# Kalbe Nutritionals Quantity Prediction & Customer Segmentation
 Tools: <br>
 👩🏻‍💻 Visual Studio Code <br>
 👩🏻‍💻 PostgreSQL, DBeaver <br>
